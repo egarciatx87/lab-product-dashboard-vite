@@ -1,3 +1,9 @@
 /* TODO: Style the product card container */
-
+/* Change this name */
+.outOfStockClass {
+  background-color: #f0f0f0;
+  opacity: 0.6;
+  filter: grayscale(1);
+  border: 1px dashed red;
+}
 /* TODO: Add special styling for out-of-stock products */
